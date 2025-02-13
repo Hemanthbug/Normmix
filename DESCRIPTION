@@ -1,11 +1,11 @@
 Package: Normmix
-Type: Package
+Type: normmix
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: person("Hemanth", "Kondakinda", "hkondaki@kent.edu", role = c("aut", "cre"))
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: These functions are used to calculate the normal distribution: dnorm computes the PDF, rnorm generates random samples, qnorm provides the quantile, 
+and pnorm computes the CDF.
 License: `use_mit_license()`
 Encoding: UTF-8
 LazyData: true
